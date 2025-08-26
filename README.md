@@ -43,7 +43,7 @@ This repository contains three distinct chatbot implementations:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-chatbot-collection.git
+git clone https://github.com/aditya634/Ai-chatbot-collection.git
 cd ai-chatbot-collection
 ```
 
@@ -232,12 +232,6 @@ ollama pull qwen2.5:7b-instruct
 - Some sites block automated requests
 - User-Agent headers help mimic real browsers
 - Respect robots.txt and rate limits
-
-## 📞 Support
-
-For issues, questions, or contributions:
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/ai-chatbot-collection/issues)
-- **Discussions**: Join our [GitHub Discussions](https://github.com/yourusername/ai-chatbot-collection/discussions)
 
 ## 🌟 Acknowledgments
 
