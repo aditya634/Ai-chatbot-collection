@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 def get_response(user_input):
-    genai.configure(api_key="AIzaSyBNXw-2ZJU9ESHeBmT4R3rPc8beTug2xLA")
+    genai.configure(api_key="Your_API_KEY")
     model = genai.GenerativeModel("gemini-2.5-flash")
     response = model.generate_content(user_input)
     return response.text.strip()
